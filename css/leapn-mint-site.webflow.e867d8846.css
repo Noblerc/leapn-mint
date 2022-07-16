@@ -1,4 +1,4 @@
-/* Generated on: Sat Jul 16 2022 21:22:32 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jul 16 2022 22:24:26 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -317,7 +317,7 @@ a {
   display: -ms-flexbox;
   display: flex;
   width: 20em;
-  height: 5.6em;
+  height: 5.5em;
   padding: 2.4em 1em;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -1218,8 +1218,8 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  width: 21.2em;
-  height: 5.7em;
+  width: 21.5em;
+  height: 6em;
   padding: 2.4em 1em;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
@@ -1234,8 +1234,6 @@ a {
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
-  -webkit-backdrop-filter: blur(1em);
-  backdrop-filter: blur(1em);
 }
 
 .discord-button-child {

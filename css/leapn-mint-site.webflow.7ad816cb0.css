@@ -1,4 +1,4 @@
-/* Generated on: Sat Jul 16 2022 21:21:11 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sat Jul 16 2022 21:22:32 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1482,8 +1482,8 @@ a {
 }
 
 .live-dot {
-  width: 0.5em;
-  height: 0.5em;
+  width: 0.4em;
+  height: 0.4em;
   border-radius: 100%;
   background-color: #a3141a;
 }

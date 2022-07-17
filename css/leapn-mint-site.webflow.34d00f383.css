@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:28:23 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:32:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3121,6 +3121,35 @@ a {
     font-size: 2em;
   }
 
+  .footer-element-wrapper.align-center.flex-gap {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .footer-element-wrapper.align-right {
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+  }
+
+  .footer-element-wrapper.align-right.tablet {
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+  }
+
+  .footer-heading {
+    font-size: 1.7em;
+  }
+
   .features-svg {
     width: 95%;
   }
@@ -3131,6 +3160,35 @@ a {
 
   .cta-link-border {
     margin-top: 3em;
+  }
+
+  .footer-border {
+    margin-top: 6em;
+  }
+
+  .footer-link-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    grid-row-gap: 6em;
+  }
+
+  .footer-logo-small {
+    width: 5em;
+  }
+
+  .bottom-footer-wrapper {
+    padding-top: 6em;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
   }
 }
 @font-face {

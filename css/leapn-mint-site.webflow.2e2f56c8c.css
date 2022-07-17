@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:35:39 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:46:05 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1620,7 +1620,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  cursor: default;
+  cursor: pointer;
 }
 
 .questions-wrapper {
@@ -3198,6 +3198,30 @@ a {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .bottom-content-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -webkit-align-items: flex-start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+  }
+
+  .hero-img-overlay {
+    height: 80vh;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .hero-heading {
+    font-size: 9vw;
   }
 }
 @font-face {

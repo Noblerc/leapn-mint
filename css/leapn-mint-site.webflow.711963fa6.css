@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 12:32:47 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 12:38:46 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -386,7 +386,7 @@ a {
 .background-video {
   width: 100%;
   height: 100%;
-  border-radius: 3em;
+  border-radius: 2em;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -396,7 +396,7 @@ a {
   top: -6.5em;
   overflow: hidden;
   padding: 6em 4em 4em;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #0c0c0c;
 }
 
@@ -713,7 +713,7 @@ a {
   position: relative;
   overflow: hidden;
   padding: 6em 4em 0em;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #0c0c0c;
 }
 
@@ -1168,7 +1168,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   grid-row-gap: 4em;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #171717;
 }
 
@@ -1291,7 +1291,7 @@ a {
   -webkit-align-items: flex-start;
   -ms-flex-align: start;
   align-items: flex-start;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #0c0c0c;
 }
 
@@ -1329,7 +1329,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 3em;
+  border-radius: 2em;
   -o-object-fit: fill;
   object-fit: fill;
 }
@@ -1355,7 +1355,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #171717;
 }
 
@@ -1433,7 +1433,7 @@ a {
   z-index: 20;
   margin-bottom: -7.3em;
   padding-bottom: 4em;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #000;
 }
 
@@ -1442,7 +1442,7 @@ a {
   z-index: 1;
   width: 100%;
   height: 100%;
-  border-radius: 3em;
+  border-radius: 2em;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -1452,7 +1452,7 @@ a {
   z-index: 2;
   width: 100%;
   height: 100%;
-  border-radius: 3em;
+  border-radius: 2em;
   -o-object-fit: cover;
   object-fit: cover;
 }
@@ -1561,7 +1561,7 @@ a {
 .faq-child {
   position: relative;
   padding: 6em 4em 4em;
-  border-radius: 3em;
+  border-radius: 2em;
   background-color: #0c0c0c;
 }
 
@@ -1582,7 +1582,7 @@ a {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-  border-radius: 1.5em;
+  border-radius: 1em;
   background-color: #171717;
   cursor: pointer;
 }
@@ -1655,7 +1655,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 3em;
+  border-radius: 2em;
   -o-object-fit: fill;
   object-fit: fill;
 }
@@ -1691,7 +1691,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 3em;
+  border-radius: 2em;
   background-image: url("/images/62ceeec8caee42d6a5b53905_gold-blur.png");
   background-position: 50% 50%;
   background-size: cover;
@@ -1879,7 +1879,7 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 3em;
+  border-radius: 2em;
   background-image: url("/images/62d12532a039f94b333dcf63_beach-img.jpg");
   background-position: 50% 50%;
   background-size: cover;
@@ -2413,14 +2413,14 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  border-radius: 1em;
+  border-radius: 0.5em;
   background-color: #0c0c0c;
 }
 
 .faq-paragraph-wrapper {
   margin-top: 1.5em;
   padding: 1em 1.4em;
-  border-radius: 1em;
+  border-radius: 0.5em;
   background-color: #0c0c0c;
   color: #727272;
   font-size: 1.5em;

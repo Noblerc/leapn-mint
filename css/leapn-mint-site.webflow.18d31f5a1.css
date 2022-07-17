@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 15:47:43 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 15:49:45 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -163,8 +163,8 @@ a {
   z-index: 2;
   width: 100%;
   height: 120vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.45)), to(rgba(0, 0, 0, 0.45))), url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -1141,8 +1141,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0px 0em 3em 3em;
-  background-image: url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
-  background-position: 50% 50%;
+  background-image: url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;

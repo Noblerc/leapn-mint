@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 14:59:37 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 15:01:24 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2698,6 +2698,36 @@ a {
   display: -ms-flexbox;
   display: flex;
   padding-top: 4em;
+}
+
+.menu-logo-bottom {
+  width: 60em;
+}
+
+.bottom-menu-img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+  height: 50em;
+  padding-top: 5em;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  border-radius: 2em;
+  background-image: url("/images/62d12532a039f94b333dcf63_beach-img.jpg");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -o-object-fit: fill;
+  object-fit: fill;
 }
 
 @media screen and (min-width: 1440px) {

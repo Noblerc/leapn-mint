@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:22:51 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:28:23 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2931,6 +2931,7 @@ a {
   }
 
   .card-wrapper.coming-soon {
+    margin-bottom: -139.3em;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
     -webkit-flex-direction: column;
@@ -3046,16 +3047,86 @@ a {
     width: 100%;
   }
 
+  .discord-content {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    grid-row-gap: 31px;
+  }
+
+  .discord-cta-wrapper {
+    max-width: 100%;
+    grid-row-gap: 20px;
+  }
+
+  .discord-button-gradient-wrapper {
+    width: 23em;
+    height: 6.3em;
+  }
+
   .mint-parent {
-    top: 25vh;
+    top: 0px;
+  }
+
+  .mint-container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    grid-row-gap: 4em;
+  }
+
+  .left-column {
+    width: 100%;
+  }
+
+  .right-column {
+    width: 100%;
+    height: auto;
   }
 
   .cta-arrow {
     font-size: 13px;
   }
 
+  .mint-content-wrapper {
+    grid-row-gap: 4em;
+  }
+
+  .faq-heading {
+    font-size: 3em;
+  }
+
+  .questions-wrapper {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    grid-row-gap: 4em;
+  }
+
+  .right-column-faq {
+    width: 100%;
+  }
+
+  .left-column-faq {
+    width: 100%;
+  }
+
+  .mint-paragraph {
+    font-size: 2em;
+  }
+
   .features-svg {
     width: 95%;
+  }
+
+  .faq-paragraph-wrapper {
+    font-size: 2em;
   }
 
   .cta-link-border {

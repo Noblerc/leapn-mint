@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 21:45:50 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 22:02:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2844,6 +2844,37 @@ a {
 
   .footer-logo {
     width: 55em;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .content-wrapper {
+    padding-top: 14em;
+  }
+
+  .hero-element-wrapper {
+    width: 53.6em;
+  }
+
+  .hero-paragraph {
+    font-size: 2.3em;
+  }
+
+  .hero-button-gradient-wrapper {
+    width: 33em;
+    height: 9.2em;
+  }
+
+  .hero-button-child {
+    grid-column-gap: 3.25em;
+  }
+
+  .button-text {
+    font-size: 2.4em;
+  }
+
+  .hero-arrow-cta {
+    font-size: 1.7em;
   }
 }
 @font-face {

@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 14:12:21 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 14:14:21 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1924,6 +1924,10 @@ a {
   cursor: auto;
 }
 
+.footer-heading.darker.no-pointer {
+  cursor: none;
+}
+
 .footer-link {
   overflow: hidden;
 }
@@ -2374,14 +2378,17 @@ a {
 
 .footer-link-worlds {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .footer-link-plots {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .footer-link-create {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .footer-link-explore {
@@ -2394,6 +2401,7 @@ a {
 
 .footer-link-2 {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .load-img-overlay {

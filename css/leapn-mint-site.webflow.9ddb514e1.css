@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:47:41 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:53:21 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3161,6 +3161,30 @@ a {
 
   .footer-heading {
     font-size: 1.7em;
+  }
+
+  .menu-overlay {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 15.3em;
+    grid-auto-columns: 1fr;
+    grid-column-gap: 16px;
+    grid-row-gap: 16px;
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .menu-row {
+    grid-row-gap: 6.5em;
+  }
+
+  .menu-text {
+    font-size: 4.3em;
+    font-weight: 300;
   }
 
   .features-svg {

@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 16:44:33 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 16:45:39 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2774,6 +2774,10 @@ a {
 @media screen and (min-width: 1920px) {
   .content-wrapper {
     padding-top: 7.5em;
+  }
+
+  .hero-element-wrapper {
+    width: 34.4em;
   }
 
   .hero-paragraph {

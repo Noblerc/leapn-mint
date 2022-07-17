@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 18:21:18 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 18:23:41 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1395,7 +1395,7 @@ a {
   position: absolute;
   left: auto;
   top: 0%;
-  right: 50%;
+  right: 20%;
   bottom: auto;
   width: 35em;
   height: 2px;

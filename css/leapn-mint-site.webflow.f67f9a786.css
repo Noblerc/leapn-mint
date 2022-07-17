@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 10:30:38 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 10:38:47 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -391,6 +391,7 @@ a {
 .features-child {
   position: relative;
   top: -6.5em;
+  overflow: hidden;
   padding: 6em 4em 4em;
   border-radius: 3em;
   background-color: #0c0c0c;
@@ -702,6 +703,7 @@ a {
 
 .expect-child {
   position: relative;
+  overflow: hidden;
   padding: 6em 4em 0em;
   border-radius: 3em;
   background-color: #0c0c0c;
@@ -1139,6 +1141,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  overflow: hidden;
   margin-right: 4em;
   margin-left: 4em;
   padding: 5em;
@@ -1273,7 +1276,7 @@ a {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  overflow: visible;
+  overflow: hidden;
   padding: 6em 4em 4em;
   -webkit-box-align: start;
   -webkit-align-items: flex-start;

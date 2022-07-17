@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:53:21 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:54:10 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2848,6 +2848,11 @@ a {
 }
 
 @media screen and (max-width: 991px) {
+  .navbar-parent {
+    padding-top: 3em;
+    padding-bottom: 3em;
+  }
+
   .hero-section {
     height: 70vh;
   }
@@ -3226,6 +3231,14 @@ a {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
+  }
+
+  .menu-logo-bottom {
+    width: 50em;
+  }
+
+  .bottom-menu-img {
+    background-attachment: scroll;
   }
 }
 

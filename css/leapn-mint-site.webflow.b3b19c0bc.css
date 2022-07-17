@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 14:02:44 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 14:03:27 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1916,11 +1916,12 @@ a {
   line-height: 1;
   font-weight: 500;
   text-align: center;
-  cursor: default;
+  cursor: auto;
 }
 
 .footer-heading.darker {
   color: #727272;
+  cursor: auto;
 }
 
 .footer-link {

@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 22:29:14 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 22:42:33 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2861,11 +2861,24 @@ a {
   }
 
   .hero-heading {
-    font-size: 12.3em;
+    font-size: 10.3vw;
   }
 
   .image {
     width: 140px;
+  }
+
+  .hero-button-gradient-wrapper {
+    width: 23em;
+    height: 6.3em;
+  }
+
+  .button-text {
+    font-size: 1.7em;
+  }
+
+  .hero-arrow-cta {
+    width: 1.2em;
   }
 
   .card-paragraph {

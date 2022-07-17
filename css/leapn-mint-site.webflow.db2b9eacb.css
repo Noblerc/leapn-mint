@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:08:42 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:22:51 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2930,6 +2930,14 @@ a {
     grid-row-gap: 4em;
   }
 
+  .card-wrapper.coming-soon {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+  }
+
   .card-parent {
     width: 100%;
     height: auto;
@@ -2973,6 +2981,10 @@ a {
     font-size: 3.1em;
   }
 
+  .card-heading.larger {
+    font-size: 3.1em;
+  }
+
   .leapn-logo {
     width: 25em;
   }
@@ -3006,7 +3018,32 @@ a {
 
   .larger-card {
     width: 100%;
-    height: 49em;
+    height: auto;
+    grid-row-gap: 4.5em;
+  }
+
+  .find-out-more-text {
+    font-size: 1.7em;
+  }
+
+  .arrow {
+    font-size: 15px;
+  }
+
+  .large-icon-parent {
+    width: 225px;
+    height: 80px;
+    padding: 17px;
+  }
+
+  .large-icon-parent.expand {
+    width: 225px;
+    height: 80px;
+    padding: 0px;
+  }
+
+  .coming-soon-card {
+    width: 100%;
   }
 
   .mint-parent {
@@ -3015,6 +3052,14 @@ a {
 
   .cta-arrow {
     font-size: 13px;
+  }
+
+  .features-svg {
+    width: 95%;
+  }
+
+  .cta-link-border {
+    margin-top: 3em;
   }
 }
 @font-face {

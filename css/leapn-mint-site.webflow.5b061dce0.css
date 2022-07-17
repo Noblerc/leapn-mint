@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 13:56:15 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 14:01:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1818,7 +1818,7 @@ a {
   display: -ms-flexbox;
   display: flex;
   overflow: hidden;
-  width: 33.333333333333336%;
+  width: 50%;
   -webkit-box-pack: start;
   -webkit-justify-content: flex-start;
   -ms-flex-pack: start;
@@ -1838,6 +1838,10 @@ a {
 
 .footer-element-wrapper.align-center.flex-gap {
   overflow: hidden;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   grid-column-gap: 2.5em;
 }
 
@@ -2657,6 +2661,18 @@ a {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+}
+
+.image-7 {
+  width: 2em;
+}
+
+.bottom-footer-wrapper {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 1.5em;
 }
 
 @media screen and (min-width: 1440px) {

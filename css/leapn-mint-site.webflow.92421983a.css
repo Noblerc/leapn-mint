@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 14:31:06 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 14:32:14 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2721,10 +2721,6 @@ a {
     top: 8.5em;
   }
 
-  .menu-row {
-    height: 105em;
-  }
-
   .menu-text {
     font-size: 7em;
   }
@@ -2795,10 +2791,6 @@ a {
 
   .mint-paragraph {
     font-size: 1.4em;
-  }
-
-  .menu-overlay {
-    display: none;
   }
 
   .faq-paragraph-wrapper {

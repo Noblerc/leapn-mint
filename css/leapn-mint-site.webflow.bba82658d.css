@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 12:58:20 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 12:59:57 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2699,6 +2699,10 @@ a {
 
   .discord-cta-wrapper {
     max-width: 22.9em;
+  }
+
+  .mint-parent {
+    top: 0em;
   }
 
   .faq-heading {

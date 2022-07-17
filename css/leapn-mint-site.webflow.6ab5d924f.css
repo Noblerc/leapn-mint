@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 12:48:45 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 12:49:07 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2606,7 +2606,7 @@ a {
 
 .logo {
   position: absolute;
-  z-index: 1;
+  z-index: 2;
   width: 15em;
   height: 15em;
   -o-object-fit: fill;

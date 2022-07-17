@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 23:46:05 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 23:47:41 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3153,6 +3153,10 @@ a {
     -webkit-justify-content: flex-end;
     -ms-flex-pack: end;
     justify-content: flex-end;
+  }
+
+  .footer-links-container {
+    padding-top: 4em;
   }
 
   .footer-heading {

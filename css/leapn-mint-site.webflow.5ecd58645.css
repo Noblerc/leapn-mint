@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 11:01:02 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 11:04:18 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2465,6 +2465,10 @@ a {
 
 .footer-logo {
   width: 60em;
+}
+
+.footer-logo-wrapper {
+  overflow: hidden;
 }
 
 .social-wrapper {

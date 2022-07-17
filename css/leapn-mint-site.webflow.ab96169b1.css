@@ -1,4 +1,4 @@
-/* Generated on: Sun Jul 17 2022 14:15:24 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Sun Jul 17 2022 14:16:06 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1916,7 +1916,7 @@ a {
   line-height: 1;
   font-weight: 500;
   text-align: center;
-  cursor: auto;
+  cursor: default;
 }
 
 .footer-heading.darker {
@@ -1930,6 +1930,7 @@ a {
 
 .footer-link {
   overflow: hidden;
+  cursor: pointer;
 }
 
 .menu-overlay {
@@ -1939,7 +1940,10 @@ a {
   right: 0%;
   bottom: 0%;
   z-index: 998;
-  display: none;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   overflow: auto;
   height: 100%;
   padding: 10em 4em 4em;
@@ -1951,6 +1955,13 @@ a {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 16px;
+  grid-row-gap: 16px;
+  -ms-grid-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: auto auto;
+  grid-template-rows: auto auto;
   background-color: rgba(0, 0, 0, 0.8);
   -webkit-backdrop-filter: blur(20px);
   backdrop-filter: blur(20px);

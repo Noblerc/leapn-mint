@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 00:15:33 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 00:22:12 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -301,6 +301,22 @@ a {
 }
 
 .hb-btn._4 {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
+.hb-btn._3-smaller {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn._4-smaller {
   left: 0%;
   top: 0%;
   right: auto;
@@ -2741,6 +2757,243 @@ a {
   object-fit: fill;
 }
 
+.menu-parent-smaller {
+  cursor: pointer;
+}
+
+.hb-wrapper-smaller {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 25px;
+  height: 25px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  grid-column-gap: 8px;
+}
+
+.hb-btn-smaller {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 2;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+.hb-btn-smaller._1 {
+  position: absolute;
+}
+
+.hb-btn-smaller._2 {
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hb-btn-smaller._3 {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn-smaller._4 {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
+.hb-btn-smaller._2-smaller {
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hb-btn-smaller._3-smaller {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn-smaller._4-smaller {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
+.hb-btn-copy {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 2;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+.hb-btn-copy._1 {
+  position: absolute;
+}
+
+.hb-btn-copy._2 {
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hb-btn-copy._3 {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn-copy._4 {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
+.hb-btn-copy {
+  position: absolute;
+  left: auto;
+  top: auto;
+  right: 0%;
+  bottom: 0%;
+  z-index: 2;
+  width: 8px;
+  height: 8px;
+  margin-left: auto;
+  border-radius: 100%;
+  background-color: #fff;
+}
+
+.hb-btn-copy._1 {
+  position: absolute;
+}
+
+.hb-btn-copy._2 {
+  left: auto;
+  top: 0%;
+  right: 0%;
+  bottom: auto;
+  z-index: 2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.hb-btn-copy._3 {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn-copy._4 {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
+.hb-btn-copy._3-smaller {
+  left: 0%;
+  top: auto;
+  right: auto;
+  bottom: 0%;
+  z-index: 2;
+}
+
+.hb-btn-copy._4-smaller {
+  left: 0%;
+  top: 0%;
+  right: auto;
+  bottom: auto;
+  z-index: 2;
+}
+
 @media screen and (min-width: 1440px) {
   .hero-button-wrapper {
     font-size: 0.9em;
@@ -3272,6 +3525,10 @@ a {
     height: 80vh;
   }
 
+  .menu-parent {
+    display: none;
+  }
+
   .image {
     width: 150px;
   }
@@ -3281,11 +3538,18 @@ a {
   }
 
   .menu-overlay {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    display: none;
     padding-top: 14em;
+  }
+
+  .hb-wrapper-smaller {
+    width: 20px;
+    height: 20px;
+  }
+
+  .hb-btn-smaller {
+    width: 6px;
+    height: 6px;
   }
 }
 

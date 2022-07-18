@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 03:08:48 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 03:09:46 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3622,6 +3622,10 @@ a {
     padding-left: 2.5em;
   }
 
+  .bottom-content-wrapper {
+    grid-row-gap: 4em;
+  }
+
   .hero-heading {
     font-family: 'Helvetica LT 43 Light Extended', sans-serif;
     font-size: 10vw;
@@ -3629,6 +3633,8 @@ a {
 
   .hero-img-overlay {
     height: 110vh;
+    background-image: url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-position: 50% 50%;
   }
 
   .image {

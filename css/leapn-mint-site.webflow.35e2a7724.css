@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 20:55:06 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 20:56:20 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3914,7 +3914,7 @@ a {
   }
 
   .mint-container {
-    grid-row-gap: 4em;
+    grid-row-gap: 3.5em;
   }
 
   .left-column {
@@ -3922,7 +3922,7 @@ a {
   }
 
   .right-column {
-    padding: 3em;
+    padding: 3.5em;
   }
 
   .comet-line {
@@ -3954,7 +3954,7 @@ a {
   }
 
   .faq-child {
-    padding: 6em 2em 3em;
+    padding: 6em 3.5em 3.5em;
   }
 
   .faq-heading {
@@ -3962,11 +3962,11 @@ a {
   }
 
   .questions-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 3.5em;
   }
 
   .left-column-faq {
-    grid-row-gap: 3em;
+    grid-row-gap: 3.5em;
   }
 
   .faq-image {

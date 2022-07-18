@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 20:56:20 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 21:04:11 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4020,9 +4020,9 @@ a {
 
   .menu-overlay {
     display: none;
-    padding-right: 2em;
-    padding-bottom: 2em;
-    padding-left: 2em;
+    padding-right: 3.5em;
+    padding-bottom: 3.5em;
+    padding-left: 3.5em;
   }
 
   .close-icon {

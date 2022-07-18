@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:43:28 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:47:49 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3643,6 +3643,8 @@ a {
 
   .hero-img-overlay {
     height: 110vh;
+    margin-right: auto;
+    margin-left: auto;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
     background-position: 0px 0px, 50% 50%;
@@ -3650,12 +3652,12 @@ a {
   }
 
   .image {
-    width: 160px;
+    width: 127px;
   }
 
   .hero-paragraph {
-    max-width: 276px;
-    font-size: 14px;
+    max-width: 282px;
+    font-size: 16px;
     line-height: 1.4;
     text-align: center;
   }
@@ -3663,7 +3665,7 @@ a {
   .hero-button-gradient-wrapper {
     width: 221px;
     height: 60px;
-    padding-top: 2.4em;
+    padding-top: 3em;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -webkit-flex-direction: row;
@@ -3685,7 +3687,7 @@ a {
   }
 
   .button-text {
-    font-size: 2em;
+    font-size: 1.6em;
   }
 
   .hero-arrow-cta {
@@ -3702,10 +3704,14 @@ a {
   }
 
   .features-child {
+    margin-right: auto;
+    margin-left: auto;
     padding: 6em 3em 3em;
   }
 
   .top-heading-wrapper {
+    margin-right: auto;
+    margin-left: auto;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -3725,7 +3731,7 @@ a {
 
   .top-section-heading {
     max-width: 286px;
-    font-size: 3.3em;
+    font-size: 3.4em;
     text-align: center;
   }
 
@@ -3775,6 +3781,8 @@ a {
   }
 
   .expect-child {
+    margin-right: auto;
+    margin-left: auto;
     padding-top: 6em;
     padding-right: 3em;
     padding-left: 3em;
@@ -3808,6 +3816,15 @@ a {
     margin-right: 2.5em;
     margin-left: 2.5em;
     padding: 3em;
+  }
+
+  .discord-content {
+    margin-right: auto;
+    margin-left: auto;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
   .discord-cta-wrapper {

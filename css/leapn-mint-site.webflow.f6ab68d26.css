@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 21:32:56 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 21:37:08 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4060,14 +4060,15 @@ a {
   }
 
   .faq-caret {
-    width: 1em;
+    display: block;
+    width: 1.5em;
   }
 
   .faq-icon-wrapper {
-    width: 3.5em;
-    height: 3.5em;
-    min-height: 3.5em;
-    min-width: 3.5em;
+    width: 4.5em;
+    height: 4.5em;
+    min-height: 4.5em;
+    min-width: 4.5em;
   }
 
   .faq-paragraph-wrapper {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:25:12 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:26:07 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3666,6 +3666,11 @@ a {
     padding: 3em;
   }
 
+  .top-section-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
   .top-section-heading {
     font-size: 3.4em;
   }
@@ -3689,6 +3694,10 @@ a {
 
   .leapn-logo {
     width: 20em;
+  }
+
+  .card-paragraph {
+    font-size: 16px;
   }
 
   .expect-section {

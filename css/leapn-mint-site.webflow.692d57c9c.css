@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 13:08:38 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:11:43 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -163,8 +163,8 @@ a {
   z-index: 2;
   width: 100%;
   height: 120vh;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -352,7 +352,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0.5em;
-  background-image: url("/images/62d320a1459b10112cb6562f_button-bg.png");
+  background-image: url("images/62d320a1459b10112cb6562f_button-bg.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -525,7 +525,7 @@ a {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  background-image: url("/images/62ceeec8caee42d6a5b53905_gold-blur.png");
+  background-image: url("images/62ceeec8caee42d6a5b53905_gold-blur.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -773,7 +773,7 @@ a {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  background-image: url("/images/62ceeec8caee42d6a5b53905_gold-blur.png");
+  background-image: url("images/62ceeec8caee42d6a5b53905_gold-blur.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -897,7 +897,7 @@ a {
   -webkit-flex-direction: row;
   -ms-flex-direction: row;
   flex-direction: row;
-  background-image: url("/images/62ceeec8caee42d6a5b53905_gold-blur.png");
+  background-image: url("images/62ceeec8caee42d6a5b53905_gold-blur.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1155,7 +1155,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0px 0em 3em 3em;
-  background-image: url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
+  background-image: url("images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -1232,8 +1232,8 @@ a {
 
 .discord-img-parent {
   background-color: #000;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("/images/62cffe44d14b936588ec5f67_discord-img.png");
-  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/images/62cffe44d14b936588ec5f67_discord-img.png");
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("images/62cffe44d14b936588ec5f67_discord-img.png");
+  background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/62cffe44d14b936588ec5f67_discord-img.png");
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   background-repeat: repeat, no-repeat;
@@ -1262,7 +1262,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 0.5em;
-  background-image: url("/images/62d320a1459b10112cb6562f_button-bg.png");
+  background-image: url("images/62d320a1459b10112cb6562f_button-bg.png");
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -1717,7 +1717,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 2em;
-  background-image: url("/images/62ceeec8caee42d6a5b53905_gold-blur.png");
+  background-image: url("images/62ceeec8caee42d6a5b53905_gold-blur.png");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1909,7 +1909,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 2em;
-  background-image: url("/images/62d12532a039f94b333dcf63_beach-img.jpg");
+  background-image: url("images/62d12532a039f94b333dcf63_beach-img.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2745,7 +2745,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 2em;
-  background-image: url("/images/62d12532a039f94b333dcf63_beach-img.jpg");
+  background-image: url("images/62d12532a039f94b333dcf63_beach-img.jpg");
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3635,8 +3635,8 @@ a {
 
   .hero-img-overlay {
     height: 110vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
     background-position: 0px 0px, 50% 50%;
     background-attachment: scroll, scroll;
   }
@@ -3651,8 +3651,8 @@ a {
   }
 
   .hero-button-gradient-wrapper {
-    width: 24em;
-    height: 7em;
+    width: 199px;
+    height: 60px;
   }
 
   .hero-button-child {
@@ -3668,6 +3668,7 @@ a {
 
   .video-parent {
     width: 100%;
+    height: 35em;
   }
 
   .features-child {
@@ -3747,7 +3748,7 @@ a {
   }
 
   .discord-img {
-    background-image: url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
+    background-image: url("images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -3873,77 +3874,77 @@ a {
 }
 @font-face {
   font-family: 'Helvetica LT 43 Light Extended';
-  src: url('/fonts/62cea37b448ae60334f51b28_Helvetica%20LT%2043%20Light%20Extended.woff2') format('woff2');
+  src: url('fonts/62cea37b448ae60334f51b28_Helvetica%20LT%2043%20Light%20Extended.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Helvetica Neue LT Std 63 Medium Extended';
-  src: url('/fonts/62cea6634994137ba010e331_Helvetica%20Neue%20LT%20Std%2063%20Medium%20Extended.woff2') format('woff2');
+  src: url('fonts/62cea6634994137ba010e331_Helvetica%20Neue%20LT%20Std%2063%20Medium%20Extended.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Helvetica Neue LT Std 73 Bold Extended';
-  src: url('/fonts/62cea663dadba94d608d9b21_Helvetica%20Neue%20LT%20Std%2073%20Bold%20Extended.woff2') format('woff2');
+  src: url('fonts/62cea663dadba94d608d9b21_Helvetica%20Neue%20LT%20Std%2073%20Bold%20Extended.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-Italic';
-  src: url('/fonts/62cea6b5c55dc4fc20e5af7d_NeueMontreal-Italic.woff2') format('woff2');
+  src: url('fonts/62cea6b5c55dc4fc20e5af7d_NeueMontreal-Italic.woff2') format('woff2');
   font-weight: 400;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-Light';
-  src: url('/fonts/62cea6b55218c11eaafce17b_NeueMontreal-Light.woff2') format('woff2');
+  src: url('fonts/62cea6b55218c11eaafce17b_NeueMontreal-Light.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-Bold';
-  src: url('/fonts/62cea6b5bbcee86b391f097e_NeueMontreal-Bold.woff2') format('woff2');
+  src: url('fonts/62cea6b5bbcee86b391f097e_NeueMontreal-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-BoldItalic';
-  src: url('/fonts/62cea6b5155fca48341ca686_NeueMontreal-BoldItalic.woff2') format('woff2');
+  src: url('fonts/62cea6b5155fca48341ca686_NeueMontreal-BoldItalic.woff2') format('woff2');
   font-weight: 700;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-MediumItalic';
-  src: url('/fonts/62cea6b5a47f6259dab0b1fc_NeueMontreal-MediumItalic.woff2') format('woff2');
+  src: url('fonts/62cea6b5a47f6259dab0b1fc_NeueMontreal-MediumItalic.woff2') format('woff2');
   font-weight: 500;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-Regular';
-  src: url('/fonts/62cea6b5c55dc4146fe5af7b_NeueMontreal-Regular.woff2') format('woff2');
+  src: url('fonts/62cea6b5c55dc4146fe5af7b_NeueMontreal-Regular.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-LightItalic';
-  src: url('/fonts/62cea6b5c55dc4e270e5af7c_NeueMontreal-LightItalic.woff2') format('woff2');
+  src: url('fonts/62cea6b5c55dc4e270e5af7c_NeueMontreal-LightItalic.woff2') format('woff2');
   font-weight: 300;
   font-style: italic;
   font-display: swap;
 }
 @font-face {
   font-family: 'NeueMontreal-Medium';
-  src: url('/fonts/62cea6b54741241ea5f0d5e4_NeueMontreal-Medium.woff2') format('woff2');
+  src: url('fonts/62cea6b54741241ea5f0d5e4_NeueMontreal-Medium.woff2') format('woff2');
   font-weight: 500;
   font-style: normal;
   font-display: swap;

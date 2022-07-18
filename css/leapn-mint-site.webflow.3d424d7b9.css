@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:34:52 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 23:36:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4078,6 +4078,33 @@ a {
   .footer-logo {
     display: block;
     width: 35em;
+  }
+
+  .pageloader-parent {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .pageloader-child {
+    border-radius: 2em;
+  }
+
+  .img-1 {
+    border-radius: 2em;
+  }
+
+  .img-2 {
+    border-radius: 2em;
+  }
+
+  .img-3 {
+    border-radius: 2em;
+  }
+
+  .img-4 {
+    border-radius: 2em;
   }
 
   .footer-border {

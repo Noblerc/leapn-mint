@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 16:50:16 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 16:51:14 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3729,10 +3729,10 @@ a {
   .top-heading-wrapper {
     margin-right: auto;
     margin-left: auto;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-    -ms-flex-pack: center;
-    justify-content: center;
+    -webkit-box-pack: start;
+    -webkit-justify-content: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
@@ -3740,16 +3740,14 @@ a {
   }
 
   .top-section-paragraph {
-    max-width: 300px;
     font-size: 16px;
     line-height: 1.4;
-    text-align: center;
+    text-align: left;
   }
 
   .top-section-heading {
-    max-width: 286px;
     font-size: 3.4em;
-    text-align: center;
+    text-align: left;
   }
 
   .top-section-heading.left-align {

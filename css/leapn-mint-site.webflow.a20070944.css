@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 16:53:29 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 16:56:07 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3831,7 +3831,7 @@ a {
   }
 
   .discord-section {
-    margin-bottom: -21.2em;
+    margin-bottom: -23em;
   }
 
   .discord-img {
@@ -3944,6 +3944,7 @@ a {
 
   .footer-element-wrapper {
     overflow: visible;
+    width: auto;
   }
 
   .footer-element-wrapper.align-center.flex-gap {
@@ -3955,11 +3956,11 @@ a {
   }
 
   .footer-element-wrapper.align-right.tablet {
-    width: 100%;
-    -webkit-box-pack: start;
-    -webkit-justify-content: flex-start;
-    -ms-flex-pack: start;
-    justify-content: flex-start;
+    width: auto;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
   }
 
   .footer-links-container {
@@ -3970,6 +3971,10 @@ a {
 
   .footer-links-container.no-padding {
     height: 100%;
+  }
+
+  .footer-heading.darker.no-pointer {
+    font-size: 1.5em;
   }
 
   .menu-overlay {
@@ -4021,17 +4026,26 @@ a {
     width: 35em;
   }
 
+  .footer-border {
+    margin-top: 4em;
+  }
+
+  .footer-link-wrapper {
+    grid-row-gap: 4em;
+  }
+
   .bottom-footer-wrapper {
-    -webkit-box-orient: vertical;
+    padding-top: 4em;
+    -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
     -webkit-box-align: start;
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
-    grid-row-gap: 6em;
+    grid-row-gap: 4em;
   }
 
   .menu-logo-bottom {

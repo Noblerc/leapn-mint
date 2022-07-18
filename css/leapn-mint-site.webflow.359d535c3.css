@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 17:32:49 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 17:34:14 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3711,8 +3711,7 @@ a {
     height: 35em;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 3em;
-    padding-left: 3em;
+    padding: 0em;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -4057,6 +4056,11 @@ a {
 
   .bottom-menu-img {
     height: 40em;
+  }
+
+  .video-container {
+    padding-right: 3em;
+    padding-left: 3em;
   }
 }
 @font-face {

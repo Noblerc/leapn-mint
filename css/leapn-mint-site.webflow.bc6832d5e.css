@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:42:12 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:43:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3663,7 +3663,16 @@ a {
   .hero-button-gradient-wrapper {
     width: 221px;
     height: 60px;
-    padding-top: 3em;
+    padding-top: 2.4em;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
     background-size: contain;
   }
 
@@ -3672,6 +3681,11 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    grid-column-gap: 3em;
+  }
+
+  .button-text {
+    font-size: 2em;
   }
 
   .hero-arrow-cta {

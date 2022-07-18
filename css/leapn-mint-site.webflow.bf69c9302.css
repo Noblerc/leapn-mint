@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:35:42 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:38:54 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3610,7 +3610,7 @@ a {
   }
 
   .hero-section {
-    height: 90vh;
+    height: 600px;
   }
 
   .content-wrapper {
@@ -3643,8 +3643,8 @@ a {
 
   .hero-img-overlay {
     height: 110vh;
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
-    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
     background-position: 0px 0px, 50% 50%;
     background-attachment: scroll, scroll;
   }
@@ -3654,6 +3654,7 @@ a {
   }
 
   .hero-paragraph {
+    max-width: 276px;
     font-size: 14px;
     line-height: 1.4;
     text-align: center;
@@ -3687,16 +3688,31 @@ a {
   }
 
   .features-child {
-    padding: 3.5em 3em 3em;
+    padding: 6em 3em 3em;
+  }
+
+  .top-heading-wrapper {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
   .top-section-paragraph {
-    font-size: 16px;
+    max-width: 300px;
+    font-size: 14px;
     line-height: 1.5;
+    text-align: center;
   }
 
   .top-section-heading {
-    font-size: 3.4em;
+    max-width: 329px;
+    font-size: 3.3em;
+    text-align: center;
   }
 
   .card-wrapper {

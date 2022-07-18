@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 22:34:17 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 22:35:09 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3627,8 +3627,8 @@ a {
   }
 
   .bottom-content-wrapper {
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-right: 3.5em;
+    padding-left: 3.5em;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -3665,7 +3665,7 @@ a {
   }
 
   .hero-paragraph {
-    max-width: 87%;
+    max-width: 20.5em;
     font-size: 16px;
     line-height: 1.4;
     text-align: center;

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 00:53:51 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 01:05:26 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -399,9 +399,9 @@ a {
 }
 
 .video-parent {
-  overflow: visible;
+  overflow: hidden;
   height: 50em;
-  border-radius: 3em;
+  border-radius: 2em;
 }
 
 .background-video {
@@ -2995,6 +2995,13 @@ a {
   z-index: 2;
 }
 
+.close-icon-mobile {
+  position: relative;
+  z-index: 3;
+  display: none;
+  width: 14px;
+}
+
 @media screen and (min-width: 1440px) {
   .hero-button-wrapper {
     font-size: 0.9em;
@@ -3528,7 +3535,10 @@ a {
   }
 
   .menu-parent {
-    display: none;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
   }
 
   .image {
@@ -3574,6 +3584,10 @@ a {
     padding-top: 14em;
   }
 
+  .close-icon {
+    display: block;
+  }
+
   .menu-parent-smaller {
     display: block;
   }
@@ -3586,6 +3600,11 @@ a {
   .hb-btn-smaller {
     width: 6px;
     height: 6px;
+  }
+
+  .close-icon-mobile {
+    display: block;
+    width: 12px;
   }
 }
 

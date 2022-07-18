@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 17:07:12 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 17:10:15 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3686,7 +3686,7 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    grid-column-gap: 3em;
+    grid-column-gap: 2.5em;
   }
 
   .button-text {
@@ -3694,7 +3694,8 @@ a {
   }
 
   .hero-arrow-cta {
-    height: 2em;
+    width: 18px;
+    height: 18px;
   }
 
   .features-section {

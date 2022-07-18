@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 21:04:11 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 21:08:32 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3763,8 +3763,8 @@ a {
   }
 
   .top-section-heading {
-    font-size: 32px;
-    line-height: 1.1;
+    font-size: 26px;
+    line-height: 1.3;
     text-align: left;
   }
 
@@ -3801,8 +3801,12 @@ a {
     grid-row-gap: 3.5em;
   }
 
+  .card-heading {
+    font-size: 26px;
+  }
+
   .card-heading.larger {
-    font-size: 3.3em;
+    font-size: 26px;
   }
 
   .leapn-logo {
@@ -3825,7 +3829,7 @@ a {
   .expect-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 3.5em 7em;
+    padding: 6em 3.5em 4em;
   }
 
   .find-out-more-element-wrapper {
@@ -3958,7 +3962,9 @@ a {
   }
 
   .faq-heading {
-    font-size: 2.3em;
+    max-width: 185px;
+    font-size: 22px;
+    line-height: 1.4;
   }
 
   .questions-wrapper {
@@ -4056,6 +4062,8 @@ a {
   .faq-icon-wrapper {
     width: 3.5em;
     height: 3.5em;
+    min-height: 3.5em;
+    min-width: 3.5em;
   }
 
   .faq-paragraph-wrapper {

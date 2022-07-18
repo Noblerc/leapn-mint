@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 00:42:10 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 00:43:07 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3533,6 +3533,15 @@ a {
 
   .image {
     width: 150px;
+  }
+
+  .comet-line {
+    right: -48%;
+    display: none;
+  }
+
+  .comet-line-2 {
+    display: none;
   }
 
   .footer-element-wrapper.align-center.flex-gap {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 13:16:16 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:22:48 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3778,6 +3778,10 @@ a {
     padding: 3em;
   }
 
+  .comet-line {
+    right: 0%;
+  }
+
   .cta-arrow {
     width: 0.7em;
   }
@@ -3787,7 +3791,7 @@ a {
   }
 
   .faq-child {
-    padding: 3.5em 3em 3em;
+    padding: 4em 3em 3em;
   }
 
   .faq-heading {
@@ -3795,7 +3799,7 @@ a {
   }
 
   .questions-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .left-column-faq {
@@ -3849,6 +3853,22 @@ a {
 
   .features-svg {
     width: 90%;
+  }
+
+  .footer-link-worlds {
+    padding-top: 5px;
+  }
+
+  .footer-link-plots {
+    padding-top: 5px;
+  }
+
+  .footer-link-create {
+    padding-top: 5px;
+  }
+
+  .footer-link-2 {
+    padding-top: 5px;
   }
 
   .cta-link-border.no-margin {

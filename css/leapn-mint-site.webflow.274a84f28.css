@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:22:54 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:25:12 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3670,12 +3670,25 @@ a {
     font-size: 3.4em;
   }
 
+  .card-wrapper {
+    grid-row-gap: 3em;
+  }
+
   .card-parent {
+    height: 100%;
     padding: 3em;
+  }
+
+  .card-parent.wider {
+    height: 703px;
   }
 
   .card-parent.wider-2 {
     padding: 3em;
+  }
+
+  .leapn-logo {
+    width: 20em;
   }
 
   .expect-section {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 21:26:55 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 21:28:56 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3642,7 +3642,9 @@ a {
 
   .hero-heading {
     font-family: 'Helvetica LT 43 Light Extended', sans-serif;
-    font-size: 9.7vw;
+    font-size: 20vw;
+    line-height: 1;
+    white-space: normal;
   }
 
   .hero-img-overlay {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 13:12:23 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:12:48 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3653,6 +3653,7 @@ a {
   .hero-button-gradient-wrapper {
     width: 199px;
     height: 60px;
+    padding-top: 3em;
   }
 
   .hero-button-child {

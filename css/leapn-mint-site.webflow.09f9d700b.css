@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:40:54 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:44:02 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3605,8 +3605,8 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 2.5em;
-    padding-left: 2.5em;
+    padding-right: 3em;
+    padding-left: 3em;
   }
 
   .hero-section {
@@ -3623,8 +3623,8 @@ a {
   }
 
   .bottom-content-wrapper {
-    padding-right: 2.5em;
-    padding-left: 2.5em;
+    padding-right: 3em;
+    padding-left: 3em;
     grid-row-gap: 4em;
   }
 
@@ -3700,6 +3700,10 @@ a {
     padding: 3em;
   }
 
+  .card-container {
+    grid-row-gap: 3em;
+  }
+
   .leapn-logo {
     width: 20em;
   }
@@ -3749,7 +3753,11 @@ a {
   }
 
   .mint-child {
-    padding: 2.5em 1.9em 2.5em 2.5em;
+    padding: 3em;
+  }
+
+  .mint-container {
+    grid-row-gap: 3em;
   }
 
   .right-column {
@@ -3782,6 +3790,12 @@ a {
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
+  }
+
+  .footer-links-container {
+    padding-top: 3em;
+    padding-right: 3em;
+    padding-left: 3em;
   }
 
   .close-icon {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 20:46:44 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 20:53:35 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3609,8 +3609,8 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 2em;
-    padding-left: 2em;
+    padding-right: 3.5em;
+    padding-left: 3.5em;
   }
 
   .hero-section {
@@ -3642,7 +3642,7 @@ a {
 
   .hero-heading {
     font-family: 'Helvetica LT 43 Light Extended', sans-serif;
-    font-size: 10.5vw;
+    font-size: 9.7vw;
   }
 
   .hero-img-overlay {
@@ -3734,7 +3734,7 @@ a {
   .features-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 2em 4em;
+    padding: 6em 3.5em 4em;
     border-radius: 20px;
   }
 
@@ -3781,7 +3781,7 @@ a {
   }
 
   .card-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 3.5em;
   }
 
   .card-parent {
@@ -3825,7 +3825,7 @@ a {
   .expect-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 2em 7em;
+    padding: 6em 3.5em 7em;
   }
 
   .find-out-more-element-wrapper {

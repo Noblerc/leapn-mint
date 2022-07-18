@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 01:12:24 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 01:12:38 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2676,8 +2676,6 @@ a {
   right: 0%;
   bottom: auto;
   height: 6px;
-  border-top-right-radius: 30px;
-  border-bottom-right-radius: 30px;
   background-image: -webkit-gradient(linear, right top, left top, from(#d1b36f), to(#0c0c0c));
   background-image: linear-gradient(270deg, #d1b36f, #0c0c0c);
 }

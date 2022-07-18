@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 22:42:00 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 22:45:50 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -1973,10 +1973,7 @@ a {
   right: 0%;
   bottom: 0%;
   z-index: 998;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   overflow: auto;
   height: 100%;
   padding: 10em 4em 4em;
@@ -3694,6 +3691,7 @@ a {
   }
 
   .button-text {
+    padding: 0px;
     font-size: 16px;
     line-height: 16px;
   }

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 19:29:25 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 19:47:46 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3856,8 +3856,8 @@ a {
 
   .discord-content-wrapper {
     top: -30em;
-    margin-right: 3em;
-    margin-left: 3em;
+    margin-right: 2em;
+    margin-left: 2em;
     padding: 3em;
   }
 

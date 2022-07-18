@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 19:05:09 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 19:11:41 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3609,8 +3609,8 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-right: 2em;
+    padding-left: 2em;
   }
 
   .hero-section {
@@ -3642,7 +3642,7 @@ a {
 
   .hero-heading {
     font-family: 'Helvetica LT 43 Light Extended', sans-serif;
-    font-size: 10vw;
+    font-size: 10.5vw;
   }
 
   .hero-img-overlay {
@@ -3703,7 +3703,7 @@ a {
   }
 
   .features-section {
-    padding-top: 3em;
+    padding-top: 2em;
   }
 
   .video-parent {
@@ -3729,7 +3729,7 @@ a {
   .features-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 3em 3em;
+    padding: 4em 2em 2em;
   }
 
   .top-heading-wrapper {
@@ -3743,11 +3743,11 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    grid-row-gap: 3em;
+    grid-row-gap: 2em;
   }
 
   .top-section-paragraph {
-    font-size: 16px;
+    font-size: 17px;
     line-height: 1.5;
     text-align: left;
   }
@@ -3757,7 +3757,7 @@ a {
   }
 
   .top-section-heading {
-    font-size: 30px;
+    font-size: 32px;
     line-height: 1.1;
     text-align: left;
   }
@@ -3771,7 +3771,7 @@ a {
   }
 
   .card-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .card-parent {
@@ -3800,8 +3800,8 @@ a {
   }
 
   .card-paragraph {
-    font-size: 16px;
-    line-height: 1.4;
+    font-size: 17px;
+    line-height: 1.5;
   }
 
   .mint-cta-wrapper {
@@ -4078,8 +4078,8 @@ a {
   }
 
   .video-container {
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-right: 0em;
+    padding-left: 0em;
   }
 }
 @font-face {

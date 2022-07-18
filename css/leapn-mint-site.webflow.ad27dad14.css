@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 02:59:24 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 03:00:03 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3615,6 +3615,13 @@ a {
 
   .image {
     width: 160px;
+  }
+
+  .hero-button-child {
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
   }
 
   .video-parent {

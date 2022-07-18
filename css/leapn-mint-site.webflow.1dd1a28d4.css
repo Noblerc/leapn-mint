@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 19:11:41 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 19:29:25 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3729,7 +3729,7 @@ a {
   .features-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 4em 2em 2em;
+    padding: 4em 2em;
   }
 
   .top-heading-wrapper {
@@ -3768,6 +3768,10 @@ a {
 
   .top-section-heading.center-align {
     text-align: center;
+  }
+
+  .top-section-heading.less-width {
+    max-width: 350px;
   }
 
   .card-wrapper {
@@ -3815,9 +3819,9 @@ a {
   .expect-child {
     margin-right: auto;
     margin-left: auto;
-    padding-top: 6em;
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-top: 4em;
+    padding-right: 2em;
+    padding-left: 2em;
   }
 
   .find-out-more-element-wrapper {
@@ -3826,10 +3830,12 @@ a {
 
   .large-icon-parent {
     width: 100%;
+    height: 100px;
   }
 
   .large-icon-parent.expand {
     width: 100%;
+    height: 100px;
   }
 
   .expand-dot {

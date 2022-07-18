@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 00:04:16 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 00:11:48 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3260,15 +3260,20 @@ a {
     -webkit-align-items: flex-start;
     -ms-flex-align: start;
     align-items: flex-start;
+    grid-row-gap: 5em;
   }
 
   .hero-heading {
-    font-size: 9.7vw;
+    font-size: 10vw;
     font-weight: 300;
   }
 
   .hero-img-overlay {
     height: 80vh;
+  }
+
+  .image {
+    width: 150px;
   }
 }
 

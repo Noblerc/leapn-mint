@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 13:03:40 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:07:14 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3671,7 +3671,7 @@ a {
   }
 
   .features-child {
-    padding: 3em;
+    padding: 3.5em 3em 3em;
   }
 
   .top-section-paragraph {
@@ -3684,7 +3684,7 @@ a {
   }
 
   .card-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .card-parent {
@@ -3701,7 +3701,7 @@ a {
   }
 
   .card-container {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .card-heading.larger {
@@ -3725,7 +3725,7 @@ a {
   }
 
   .expect-child {
-    padding-top: 3em;
+    padding-top: 3.5em;
     padding-right: 3em;
     padding-left: 3em;
   }
@@ -3765,7 +3765,7 @@ a {
   }
 
   .mint-container {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .right-column {
@@ -3781,7 +3781,7 @@ a {
   }
 
   .faq-child {
-    padding: 3em;
+    padding: 3.5em 3em 3em;
   }
 
   .faq-heading {
@@ -3793,7 +3793,7 @@ a {
   }
 
   .left-column-faq {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .faq-image {

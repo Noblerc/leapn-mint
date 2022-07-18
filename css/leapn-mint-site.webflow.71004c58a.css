@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 03:01:24 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 03:04:10 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3609,13 +3609,22 @@ a {
 }
 
 @media screen and (max-width: 479px) {
+  .hero-section {
+    height: 100vh;
+  }
+
   .container {
     padding-right: 2.5em;
     padding-left: 2.5em;
   }
 
   .hero-heading {
+    font-family: 'Helvetica LT 43 Light Extended', sans-serif;
     font-size: 10vw;
+  }
+
+  .hero-img-overlay {
+    height: 110vh;
   }
 
   .image {

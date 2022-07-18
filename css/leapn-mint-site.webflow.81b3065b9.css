@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:38:49 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 23:42:16 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3927,7 +3927,7 @@ a {
   }
 
   .right-column {
-    padding: 3.5em;
+    padding: 3em;
   }
 
   .comet-line {
@@ -3963,7 +3963,7 @@ a {
   }
 
   .question-child {
-    padding: 3.5em;
+    padding: 3em;
   }
 
   .faq-heading {

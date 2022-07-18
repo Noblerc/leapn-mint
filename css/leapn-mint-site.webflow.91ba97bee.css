@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:49:55 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 23:54:48 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3763,7 +3763,6 @@ a {
 
   .top-section-heading {
     font-size: 33px;
-    line-height: 1.1;
     text-align: left;
   }
 
@@ -3778,7 +3777,6 @@ a {
 
   .top-section-heading.less-width {
     max-width: 350px;
-    line-height: 1.1;
   }
 
   .card-wrapper {
@@ -3804,11 +3802,11 @@ a {
   }
 
   .card-heading {
-    font-size: 26px;
+    font-size: 27px;
   }
 
   .card-heading.larger {
-    font-size: 26px;
+    font-size: 27px;
   }
 
   .leapn-logo {
@@ -3897,6 +3895,7 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    grid-row-gap: 15px;
   }
 
   .discord-cta-wrapper {

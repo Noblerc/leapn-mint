@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:28:45 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:29:58 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3706,6 +3706,10 @@ a {
     font-size: 16px;
   }
 
+  .mint-cta-wrapper {
+    padding-top: 4px;
+  }
+
   .expect-section {
     padding-bottom: 2.5em;
   }
@@ -3748,6 +3752,10 @@ a {
 
   .right-column {
     padding: 3em;
+  }
+
+  .cta-arrow {
+    width: 0.7em;
   }
 
   .faq-child {

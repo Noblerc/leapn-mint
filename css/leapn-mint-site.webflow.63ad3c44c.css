@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 20:53:35 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 20:54:51 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3798,7 +3798,7 @@ a {
   }
 
   .card-container {
-    grid-row-gap: 3em;
+    grid-row-gap: 3.5em;
   }
 
   .card-heading.larger {
@@ -3871,8 +3871,8 @@ a {
   .discord-content-wrapper {
     top: -30em;
     margin-right: 2em;
-    margin-left: 2em;
-    padding: 3em;
+    margin-left: 3.5em;
+    padding: 3.5em;
   }
 
   .discord-content {
@@ -3910,7 +3910,7 @@ a {
   }
 
   .mint-child {
-    padding: 3em 2em;
+    padding: 3.5em;
   }
 
   .mint-container {

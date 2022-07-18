@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 13:01:15 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 13:03:40 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3605,7 +3605,7 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 3.5em;
+    padding-right: 3em;
     padding-left: 3em;
   }
 
@@ -3623,8 +3623,8 @@ a {
   }
 
   .bottom-content-wrapper {
-    padding-right: 4em;
-    padding-left: 4em;
+    padding-right: 3em;
+    padding-left: 3em;
     grid-row-gap: 4em;
   }
 
@@ -3671,7 +3671,7 @@ a {
   }
 
   .features-child {
-    padding: 4em;
+    padding: 3em;
   }
 
   .top-section-paragraph {
@@ -3684,7 +3684,7 @@ a {
   }
 
   .card-wrapper {
-    grid-row-gap: 4em;
+    grid-row-gap: 3em;
   }
 
   .card-parent {
@@ -3701,7 +3701,7 @@ a {
   }
 
   .card-container {
-    grid-row-gap: 4em;
+    grid-row-gap: 3em;
   }
 
   .card-heading.larger {
@@ -3725,9 +3725,9 @@ a {
   }
 
   .expect-child {
-    padding-top: 4em;
-    padding-right: 4em;
-    padding-left: 4em;
+    padding-top: 3em;
+    padding-right: 3em;
+    padding-left: 3em;
   }
 
   .find-out-more-element-wrapper {
@@ -3788,6 +3788,14 @@ a {
     font-size: 2em;
   }
 
+  .questions-wrapper {
+    grid-row-gap: 3em;
+  }
+
+  .left-column-faq {
+    grid-row-gap: 3em;
+  }
+
   .faq-image {
     height: 40em;
   }
@@ -3823,10 +3831,7 @@ a {
   }
 
   .menu-overlay {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
+    display: none;
     padding-right: 3em;
     padding-bottom: 3em;
     padding-left: 3em;

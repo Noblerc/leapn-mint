@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 17:34:14 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 17:38:52 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3739,11 +3739,12 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    grid-row-gap: 3em;
   }
 
   .top-section-paragraph {
     font-size: 16px;
-    line-height: 1.4;
+    line-height: 1.5;
     text-align: left;
   }
 
@@ -3929,7 +3930,7 @@ a {
   }
 
   .faq-heading {
-    font-size: 2em;
+    font-size: 2.1em;
   }
 
   .questions-wrapper {
@@ -3942,6 +3943,10 @@ a {
 
   .faq-image {
     height: 40em;
+  }
+
+  .mint-paragraph {
+    line-height: 1.5;
   }
 
   .footer-element-wrapper {
@@ -4017,6 +4022,10 @@ a {
   .faq-icon-wrapper {
     width: 3.5em;
     height: 3.5em;
+  }
+
+  .faq-paragraph-wrapper {
+    line-height: 1.5;
   }
 
   .cta-link-border.no-margin {

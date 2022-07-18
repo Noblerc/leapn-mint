@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:26:43 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:27:28 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3633,9 +3633,10 @@ a {
 
   .hero-img-overlay {
     height: 110vh;
-    background-image: url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
-    background-position: 50% 50%;
-    background-attachment: scroll;
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.3)), to(rgba(0, 0, 0, 0.3))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
+    background-position: 0px 0px, 50% 50%;
+    background-attachment: scroll, scroll;
   }
 
   .image {

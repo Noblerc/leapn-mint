@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:42:16 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 23:46:11 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3763,7 +3763,7 @@ a {
 
   .top-section-heading {
     font-size: 33px;
-    line-height: 1.2;
+    line-height: 1.1;
     text-align: left;
   }
 
@@ -3772,11 +3772,13 @@ a {
   }
 
   .top-section-heading.center-align {
+    line-height: 1.1;
     text-align: center;
   }
 
   .top-section-heading.less-width {
     max-width: 350px;
+    line-height: 1.1;
   }
 
   .card-wrapper {

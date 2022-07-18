@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:26:07 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:26:43 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3643,8 +3643,13 @@ a {
   }
 
   .hero-paragraph {
-    font-size: 1.8em;
+    font-size: 16px;
     line-height: 1.4;
+  }
+
+  .hero-button-gradient-wrapper {
+    width: 24em;
+    height: 7em;
   }
 
   .hero-button-child {

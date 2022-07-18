@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 22:41:44 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 22:42:00 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3025,10 +3025,6 @@ a {
 
   .mint-container {
     top: 8.5em;
-  }
-
-  .menu-text {
-    font-size: 7em;
   }
 
   .discord-button-wrapper {

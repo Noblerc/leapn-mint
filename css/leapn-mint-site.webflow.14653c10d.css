@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:15:04 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 23:16:42 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4082,11 +4082,11 @@ a {
   }
 
   .footer-border {
-    margin-top: 4em;
+    margin-top: 5em;
   }
 
   .footer-link-wrapper {
-    grid-row-gap: 4em;
+    grid-row-gap: 5em;
   }
 
   .footer-logo-small {

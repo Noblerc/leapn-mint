@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:44:02 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:51:15 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3605,8 +3605,8 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-right: 4em;
+    padding-left: 4em;
   }
 
   .hero-section {
@@ -3623,8 +3623,8 @@ a {
   }
 
   .bottom-content-wrapper {
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-right: 4em;
+    padding-left: 4em;
     grid-row-gap: 4em;
   }
 
@@ -3671,7 +3671,7 @@ a {
   }
 
   .features-child {
-    padding: 3em;
+    padding: 4em;
   }
 
   .top-section-paragraph {
@@ -3680,11 +3680,11 @@ a {
   }
 
   .top-section-heading {
-    font-size: 3.1em;
+    font-size: 3.4em;
   }
 
   .card-wrapper {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
   }
 
   .card-parent {
@@ -3701,7 +3701,11 @@ a {
   }
 
   .card-container {
-    grid-row-gap: 3em;
+    grid-row-gap: 4em;
+  }
+
+  .card-heading.larger {
+    font-size: 3.3em;
   }
 
   .leapn-logo {
@@ -3713,7 +3717,7 @@ a {
   }
 
   .mint-cta-wrapper {
-    padding-top: 4px;
+    padding-top: 10px;
   }
 
   .expect-section {
@@ -3721,9 +3725,13 @@ a {
   }
 
   .expect-child {
-    padding-top: 3em;
-    padding-right: 3em;
-    padding-left: 3em;
+    padding-top: 4em;
+    padding-right: 4em;
+    padding-left: 4em;
+  }
+
+  .find-out-more-element-wrapper {
+    padding-top: 8px;
   }
 
   .large-icon-parent {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 00:22:12 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 00:25:13 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -2758,6 +2758,7 @@ a {
 }
 
 .menu-parent-smaller {
+  display: none;
   cursor: pointer;
 }
 
@@ -3517,7 +3518,7 @@ a {
   }
 
   .hero-heading {
-    font-size: 10vw;
+    font-size: 9.6vw;
     font-weight: 300;
   }
 
@@ -3540,6 +3541,10 @@ a {
   .menu-overlay {
     display: none;
     padding-top: 14em;
+  }
+
+  .menu-parent-smaller {
+    display: block;
   }
 
   .hb-wrapper-smaller {

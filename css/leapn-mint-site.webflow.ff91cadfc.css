@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 01:05:26 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 01:06:02 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -394,7 +394,7 @@ a {
   margin-top: 0px;
   margin-bottom: 2em;
   padding-top: 4em;
-  border-radius: 3em 3em 0em 0px;
+  border-radius: 2em;
   background-color: #000;
 }
 

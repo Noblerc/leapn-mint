@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:50:55 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:54:17 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3651,12 +3651,19 @@ a {
     background-attachment: scroll, scroll;
   }
 
+  .hero-element-wrapper {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
   .image {
     width: 127px;
   }
 
   .hero-paragraph {
-    max-width: 282px;
+    max-width: 95%;
     font-size: 16px;
     line-height: 1.4;
     text-align: center;
@@ -3738,7 +3745,7 @@ a {
 
   .top-section-paragraph {
     max-width: 300px;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
     text-align: center;
   }
@@ -3861,7 +3868,7 @@ a {
   }
 
   .left-column {
-    height: 40em;
+    height: 50em;
   }
 
   .right-column {
@@ -3870,6 +3877,11 @@ a {
 
   .comet-line {
     right: 0%;
+    display: none;
+  }
+
+  .comet-line-4 {
+    display: none;
   }
 
   .cta-arrow {

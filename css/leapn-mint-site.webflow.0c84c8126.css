@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 03:09:46 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 03:18:17 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3635,6 +3635,7 @@ a {
     height: 110vh;
     background-image: url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");
     background-position: 50% 50%;
+    background-attachment: scroll;
   }
 
   .image {
@@ -3653,12 +3654,80 @@ a {
     align-items: center;
   }
 
+  .features-section {
+    padding-top: 2em;
+  }
+
   .video-parent {
     width: 100%;
   }
 
+  .features-child {
+    padding: 3em;
+  }
+
+  .top-section-heading {
+    font-size: 3.4em;
+  }
+
+  .card-parent {
+    padding: 3em;
+  }
+
+  .card-parent.wider-2 {
+    padding: 3em;
+  }
+
+  .expect-section {
+    padding-bottom: 2.5em;
+  }
+
+  .expect-child {
+    padding-top: 4em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+  }
+
+  .large-icon-parent {
+    width: 100%;
+  }
+
+  .large-icon-parent.expand {
+    width: 100%;
+  }
+
+  .discord-section {
+    margin-bottom: -21.2em;
+  }
+
+  .discord-img {
+    background-image: url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+  }
+
+  .discord-content-wrapper {
+    top: -30em;
+    margin-right: 2.5em;
+    margin-left: 2.5em;
+    padding: 3em;
+  }
+
+  .mint-child {
+    padding: 2.5em 1.9em 2.5em 2.5em;
+  }
+
+  .right-column {
+    padding: 3em;
+  }
+
   .close-icon {
     display: none;
+  }
+
+  .cta-link-border {
+    margin-top: 0em;
   }
 }
 @font-face {

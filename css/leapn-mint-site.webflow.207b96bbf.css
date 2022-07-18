@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:38:54 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:40:18 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3710,7 +3710,7 @@ a {
   }
 
   .top-section-heading {
-    max-width: 329px;
+    max-width: 286px;
     font-size: 3.3em;
     text-align: center;
   }
@@ -3757,7 +3757,7 @@ a {
   }
 
   .expect-child {
-    padding-top: 3.5em;
+    padding-top: 6em;
     padding-right: 3em;
     padding-left: 3em;
   }
@@ -3792,12 +3792,27 @@ a {
     padding: 3em;
   }
 
+  .discord-cta-wrapper {
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+  }
+
   .mint-child {
     padding: 3em;
   }
 
   .mint-container {
     grid-row-gap: 4em;
+  }
+
+  .left-column {
+    height: 40em;
   }
 
   .right-column {

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 14:49:56 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 14:50:55 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3687,7 +3687,7 @@ a {
   }
 
   .button-text {
-    font-size: 1.6em;
+    font-size: 1.9em;
   }
 
   .hero-arrow-cta {
@@ -3707,8 +3707,6 @@ a {
     height: 35em;
     margin-right: auto;
     margin-left: auto;
-    padding-right: 3em;
-    padding-left: 3em;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;

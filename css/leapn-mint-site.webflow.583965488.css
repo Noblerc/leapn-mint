@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:40:15 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:40:54 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3758,6 +3758,10 @@ a {
 
   .cta-arrow {
     width: 0.7em;
+  }
+
+  .faq-section {
+    padding-bottom: 0em;
   }
 
   .faq-child {

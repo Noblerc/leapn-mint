@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 20:00:48 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 20:07:52 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3614,11 +3614,11 @@ a {
   }
 
   .hero-section {
-    height: 600px;
+    height: 95vh;
   }
 
   .content-wrapper {
-    padding-top: 12em;
+    padding-top: 11em;
   }
 
   .container {
@@ -3646,7 +3646,7 @@ a {
   }
 
   .hero-img-overlay {
-    height: 110vh;
+    height: 100vh;
     margin-right: auto;
     margin-left: auto;
     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.4)), to(rgba(0, 0, 0, 0.4))), url("/images/62cea28d4f3d598ce8098d0a_Hero-img.jpg");

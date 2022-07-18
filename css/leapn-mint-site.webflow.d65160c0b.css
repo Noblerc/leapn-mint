@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 12:36:00 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Mon Jul 18 2022 12:40:15 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3604,6 +3604,11 @@ a {
 }
 
 @media screen and (max-width: 479px) {
+  .navbar-parent {
+    padding-right: 2.5em;
+    padding-left: 2.5em;
+  }
+
   .hero-section {
     height: 90vh;
   }
@@ -3613,11 +3618,13 @@ a {
   }
 
   .container {
-    padding-right: 2.5em;
-    padding-left: 2.5em;
+    padding-right: 0em;
+    padding-left: 0em;
   }
 
   .bottom-content-wrapper {
+    padding-right: 2.5em;
+    padding-left: 2.5em;
     grid-row-gap: 4em;
   }
 
@@ -3656,7 +3663,7 @@ a {
   }
 
   .features-section {
-    padding-top: 3em;
+    padding-top: 0em;
   }
 
   .video-parent {
@@ -3673,7 +3680,7 @@ a {
   }
 
   .top-section-heading {
-    font-size: 3.4em;
+    font-size: 3.1em;
   }
 
   .card-wrapper {
@@ -3706,11 +3713,11 @@ a {
   }
 
   .expect-section {
-    padding-bottom: 2.5em;
+    padding-bottom: 0em;
   }
 
   .expect-child {
-    padding-top: 4em;
+    padding-top: 3em;
     padding-right: 3em;
     padding-left: 3em;
   }

@@ -1,4 +1,4 @@
-/* Generated on: Mon Jul 18 2022 23:56:46 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Jul 19 2022 00:00:11 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3614,7 +3614,7 @@ a {
   }
 
   .content-wrapper {
-    padding-top: 10em;
+    padding-top: 9.5em;
   }
 
   .container {
@@ -3791,6 +3791,11 @@ a {
 
   .card-parent.wider {
     height: 703px;
+  }
+
+  .card-parent.inside {
+    border-bottom-left-radius: 0em;
+    border-bottom-right-radius: 0em;
   }
 
   .card-parent.wider-2 {

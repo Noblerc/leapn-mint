@@ -1,4 +1,4 @@
-/* Generated on: Tue Jul 19 2022 00:42:35 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Jul 19 2022 00:48:06 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -604,6 +604,10 @@ a {
 
 .card-heading.coming-soon {
   color: #1d1d1d;
+}
+
+.card-heading.larger {
+  line-height: 1.3;
 }
 
 .leapn-logo {

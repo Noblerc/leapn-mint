@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:35:49 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:38:18 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3974,7 +3974,7 @@ a {
   }
 
   .faq-child {
-    padding: 5.5em 2.5em 2.5em;
+    padding: 5.5em 2.5em 3em;
   }
 
   .question-child {

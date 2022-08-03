@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:31:37 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:32:05 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4016,7 +4016,7 @@ a {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    grid-row-gap: 3.5em;
+    grid-row-gap: 4em;
   }
 
   .footer-element-wrapper.align-right {
@@ -4126,7 +4126,7 @@ a {
   }
 
   .footer-link-wrapper {
-    grid-row-gap: 3.5em;
+    grid-row-gap: 4em;
   }
 
   .footer-logo-small {

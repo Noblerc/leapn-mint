@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 11:56:41 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:13:02 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3609,8 +3609,7 @@ a {
 
 @media screen and (max-width: 479px) {
   .navbar-parent {
-    padding-right: 3.5em;
-    padding-left: 3.5em;
+    padding: 2.5em;
   }
 
   .hero-section {

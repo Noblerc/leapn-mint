@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:13:02 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:16:59 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3641,7 +3641,7 @@ a {
 
   .hero-heading {
     font-family: 'Helvetica LT 43 Light Extended', sans-serif;
-    font-size: 20vw;
+    font-size: 21vw;
     line-height: 1;
     white-space: normal;
   }
@@ -3730,7 +3730,7 @@ a {
   .features-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 3.5em 3.5em;
+    padding: 6em 2.5em 2.5em;
     border-radius: 20px;
   }
 
@@ -3784,7 +3784,7 @@ a {
 
   .card-wrapper {
     grid-column-gap: 3.5em;
-    grid-row-gap: 3.5em;
+    grid-row-gap: 2.5em;
   }
 
   .card-parent {
@@ -3806,7 +3806,7 @@ a {
   }
 
   .card-container {
-    grid-row-gap: 3.5em;
+    grid-row-gap: 2.5em;
   }
 
   .card-heading {
@@ -3837,7 +3837,7 @@ a {
   .expect-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 3.5em 3.5em;
+    padding: 6em 2.5em 3.5em;
   }
 
   .find-out-more-element-wrapper {
@@ -3887,9 +3887,9 @@ a {
 
   .discord-content-wrapper {
     top: -30em;
-    margin-right: 2em;
-    margin-left: 3.5em;
-    padding: 3.5em;
+    margin-right: 2.5em;
+    margin-left: 2.5em;
+    padding: 3.5em 2.5em;
   }
 
   .discord-content {
@@ -3928,11 +3928,11 @@ a {
   }
 
   .mint-child {
-    padding: 3.5em;
+    padding: 2.5em;
   }
 
   .mint-container {
-    grid-row-gap: 3.5em;
+    grid-row-gap: 2.5em;
   }
 
   .left-column {
@@ -3972,7 +3972,7 @@ a {
   }
 
   .faq-child {
-    padding: 6em 3.5em 3.5em;
+    padding: 6em 2.5em 2.5em;
   }
 
   .question-child {
@@ -3986,11 +3986,11 @@ a {
   }
 
   .questions-wrapper {
-    grid-row-gap: 3.5em;
+    grid-row-gap: 2.5em;
   }
 
   .left-column-faq {
-    grid-row-gap: 3.5em;
+    grid-row-gap: 2.5em;
   }
 
   .faq-image {
@@ -4031,8 +4031,8 @@ a {
 
   .footer-links-container {
     padding-top: 0em;
-    padding-right: 3.5em;
-    padding-left: 3.5em;
+    padding-right: 2.5em;
+    padding-left: 2.5em;
   }
 
   .footer-links-container.no-padding {
@@ -4044,9 +4044,9 @@ a {
   }
 
   .menu-overlay {
-    padding-right: 3.5em;
+    padding-right: 2.5em;
     padding-bottom: 3.5em;
-    padding-left: 3.5em;
+    padding-left: 2.5em;
   }
 
   .close-icon {

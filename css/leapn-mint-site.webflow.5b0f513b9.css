@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:44:07 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:45:09 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4093,8 +4093,8 @@ a {
   }
 
   .faq-paragraph-wrapper {
-    padding-right: 1.2em;
-    padding-left: 1.2em;
+    padding-right: 1em;
+    padding-left: 1em;
     font-size: 17px;
     line-height: 1.5;
   }

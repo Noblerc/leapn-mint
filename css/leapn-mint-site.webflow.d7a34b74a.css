@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:40:46 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:44:07 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3791,7 +3791,7 @@ a {
 
   .card-parent {
     height: 100%;
-    padding: 3em;
+    padding: 2.5em;
   }
 
   .card-parent.wider {
@@ -3841,6 +3841,10 @@ a {
     margin-right: auto;
     margin-left: auto;
     padding: 5.5em 2.5em 3.5em;
+  }
+
+  .larger-card {
+    padding: 2.5em;
   }
 
   .find-out-more-element-wrapper {
@@ -3943,7 +3947,7 @@ a {
   }
 
   .right-column {
-    padding: 3em;
+    padding: 2.5em;
   }
 
   .comet-line {
@@ -3979,7 +3983,7 @@ a {
   }
 
   .question-child {
-    padding: 3em;
+    padding: 2.5em;
   }
 
   .faq-heading {

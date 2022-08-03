@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:34:36 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:35:10 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -4032,7 +4032,7 @@ a {
   }
 
   .footer-links-container {
-    padding-top: 0em;
+    padding-top: 1em;
     padding-right: 2.5em;
     padding-left: 2.5em;
   }

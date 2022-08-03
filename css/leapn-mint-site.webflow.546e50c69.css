@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:49:34 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:51:33 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3863,6 +3863,10 @@ a {
   .large-icon-parent.expand {
     width: 100%;
     height: 100px;
+  }
+
+  .coming-soon-card {
+    padding: 2.5em;
   }
 
   .expand-dot {

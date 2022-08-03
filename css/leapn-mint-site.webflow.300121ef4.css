@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:16:59 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:21:49 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3700,7 +3700,7 @@ a {
   .features-section {
     margin-bottom: 0em;
     padding-top: 0em;
-    border-radius: 20px;
+    border-radius: 30px;
   }
 
   .video-parent {
@@ -3721,17 +3721,18 @@ a {
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    border-radius: 30px;
   }
 
   .background-video {
-    border-radius: 20px;
+    border-radius: 30px;
   }
 
   .features-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 2.5em 2.5em;
-    border-radius: 20px;
+    padding: 5em 2.5em 2.5em;
+    border-radius: 30px;
   }
 
   .infinite-image-section {
@@ -3832,12 +3833,14 @@ a {
 
   .expect-section {
     padding-bottom: 0em;
+    border-radius: 30px;
   }
 
   .expect-child {
     margin-right: auto;
     margin-left: auto;
-    padding: 6em 2.5em 3.5em;
+    padding: 5em 2.5em 3.5em;
+    border-radius: 30px;
   }
 
   .find-out-more-element-wrapper {
@@ -3879,6 +3882,7 @@ a {
 
   .discord-img {
     height: 80em;
+    border-radius: 30px;
     background-image: url("/images/62d1122c2c315ac1900e0e73_Artboard%201%25402x.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -4157,6 +4161,7 @@ a {
   .video-container {
     padding-right: 0em;
     padding-left: 0em;
+    border-radius: 30px;
   }
 }
 @font-face {

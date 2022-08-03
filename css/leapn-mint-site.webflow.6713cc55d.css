@@ -1,4 +1,4 @@
-/* Generated on: Wed Aug 03 2022 12:28:02 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Wed Aug 03 2022 12:31:37 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3770,6 +3770,7 @@ a {
   }
 
   .top-section-heading.left-align {
+    max-width: 9.4em;
     text-align: left;
   }
 

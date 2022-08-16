@@ -1,4 +1,4 @@
-/* Generated on: Tue Aug 16 2022 17:24:41 GMT+0000 (Coordinated Universal Time) */
+/* Generated on: Tue Aug 16 2022 17:25:44 GMT+0000 (Coordinated Universal Time) */
 /* ==========================================================================
    normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
    ========================================================================== */
@@ -3017,6 +3017,7 @@ a {
   right: 0%;
   bottom: 0%;
   z-index: 1;
+  display: none;
   border-bottom: 1px solid #2f2f2f;
   background-color: rgba(0, 0, 0, 0.8);
   -webkit-backdrop-filter: blur(20px);
